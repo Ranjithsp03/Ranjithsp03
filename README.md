@@ -1,6 +1,6 @@
-
-<h1>Hi,I am Ranjith</h1>
-
+<div align="center">
+#Hi,I am *Ranjith* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</div>
 # 💫 About Me:
 I’m currently working on: Full Stack Development<br>🌱 I’m currently learning :App development<br>👯 I’m looking to collaborate on ...<br>💬 Ask me about: App development<br>📫 How to reach me: ranjithperiyasamysp@gmail.com<br>
 
