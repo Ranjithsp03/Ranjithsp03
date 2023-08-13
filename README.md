@@ -1,4 +1,6 @@
-<h1>HI,I am Ranjith</h1>
+
+<h1>Hi,I am Ranjith</h1>
+
 # 💫 About Me:
 I’m currently working on: Full Stack Development<br>🌱 I’m currently learning :App development<br>👯 I’m looking to collaborate on ...<br>💬 Ask me about: App development<br>📫 How to reach me: ranjithperiyasamysp@gmail.com<br>
 
